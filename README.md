@@ -49,7 +49,18 @@ O MVP deve entregar uma experiência curta e jogável contendo:
 
 A duração de 5, 10 ou 15 minutos é uma **hipótese a validar**, não uma decisão definitiva.
 
+## Equipe de desenvolvimento (8 Integrantes)
 
+| Nº | Integrante | Função Principal | Responsabilidade Primária |
+| :---: | :--- | :--- | :--- |
+| **1** | **Vitor Cauã** | Product Owner & Game Designer | Visão do produto, regras do jogo e priorização do backlog |
+| **2** | **Rodrigo** | Narrative Designer & Roteirista | Criação da história, enredo dos enigmas, diálogos e textos do jogo |
+| **3** | **Andressa Souza** | Scrum Master & Interpretação vocal | Scrumban/GitHub, fluxo de prazos e locução/narração |
+| **4** | **Livia Acioli** | Programadora (Mecânicas Principais) | Lógica central do jogo, inteligência artificial e resolução de enigmas |
+| **5** | **João Gabriel** | Programador (Sistemas & UI) | Cronômetro, sistema de dicas e integração das telas do jogo |
+| **6** | **Vitor Cauã** | Artista 2D | Criação dos cenários, sprites e elementos visuais em pixel art |
+| **7** | **Renato Veras** | UI/UX Designer & Sound Designer | Experiência visual de navegação, edição de áudio e efeitos sonoros |
+| **8** | **Ricardo Freire** | QA Lead & Playtester | Execução de testes funcionais, identificação e validação de bugs |
 
 
 
