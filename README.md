@@ -58,8 +58,7 @@ A duração de 5, 10 ou 15 minutos é uma **hipótese a validar**, não uma deci
 | **3** | **Andressa Souza** | Scrum Master & Interpretação vocal | Scrumban/GitHub, fluxo de prazos e locução/narração |
 | **4** | **Livia Acioli** | Programadora (Mecânicas Principais) | Lógica central do jogo, inteligência artificial e resolução de enigmas |
 | **5** | **João Gabriel** | Programador (Sistemas & UI) | Cronômetro, sistema de dicas e integração das telas do jogo |
-| **6** | **Gabriel Aragão** | Programador de interface | Implementação visual/áudio no console, exibição das telas de
-interface e suporte à navegação no código.
+| **6** | **Gabriel Aragão** | Programador de interface | Implementação visual/áudio no console, exibição das telas deinterface e suporte à navegação no código.
 | **7** | **Renato Veras** | UI/UX Designer & Sound Designer | Experiência visual de navegação, edição de áudio e efeitos sonoros |
 | **8** | **Ricardo Freire** | QA Lead & Playtester | Execução de testes funcionais, identificação e validação de bugs |
 
