@@ -6,7 +6,7 @@
 
 ## Sobre o projeto
 
-O Decifra.IA é um jogo educativo desenvolvido para ensinar conceitos básicos de Inteligência Artificial e estimular uma reflexão sobre seu uso ético, crítico e responsável. O jogo será executado em terminal e desenvolvido utilizando C e Haskell. 
+O Decifra.IA é um projeto de criação de um jogo educativo desenvolvido para ensinar conceitos básicos de Inteligência Artificial e estimular uma reflexão sobre seu uso ético, crítico e responsável. O jogo será executado em terminal e desenvolvido utilizando C e Haskell. 
 características: **single player**, para PC, com estética **pixel art**, ambientado em uma empresa de tecnologia de IA.
 
 ## Problema
@@ -19,7 +19,7 @@ Desenvolver um jogo educativo que apresente conceitos básicos de Inteligência 
 
 ## Conceito
 
-O jogador atua em uma empresa de tecnologia e precisa investigar funcionarios após uma perda de controle no ambiente de testes. Analisa comportamentos, pistas e enigmas para descobrir se determinado comportamento/personagem está associado a um humano ou a uma IA.
+O jogador atua em uma empresa de tecnologia e precisa investigar funcionarios após uma perda de controle no ambiente de testes. Analisar comportamentos, pistas e enigmas para descobrir se determinado comportamento/personagem está associado a um humano ou a uma IA.
 
 ## Missões
 
